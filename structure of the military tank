@@ -1,0 +1,27 @@
+# Smart Military Tank
+
+## Overview
+A Smart Military Tank prototype developed using IoT and embedded systems for defense and surveillance applications.
+
+## Features
+- Ultrasonic-based object detection
+- Missile firing mechanism
+- Emergency fire alarm system
+- Built-in mini drone deployment
+- Mine-removal attachment
+- Chained wheels for better terrain grip
+
+## Components Used
+- Arduino Uno
+- Ultrasonic Sensor
+- Servo Motors
+- DC Motors
+- L298N Motor Driver
+- Buzzer
+- Battery Pack
+
+## Technologies
+- Arduino C++
+- IoT
+- Robotics
+- Embedded Systems
